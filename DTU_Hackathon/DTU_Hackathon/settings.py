@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'DTU_Hackathon.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'DTUHACKATHON',
+        'NAME': 'DTUHACKTHON',
         'USER': 'root',
         'PASSWORD': 'Varun@123',
         'HOST': 'localhost'
